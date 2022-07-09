@@ -1,6 +1,7 @@
 #argon2-cffi==21.3.0
 #argon2-cffi-bindings==21.2.0
 #asgiref @ file:///tmp/build/80754af9/asgiref_1625643473416/work
+gunicorn
 bcrypt==3.2.2
 beautifulsoup4==4.11.1
 #certifi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_83242e7e-f82d-4a71-8ef2-9d71d212d249gu_wxmeq/croots/recipe/certifi_1655968827803/work/certifi
