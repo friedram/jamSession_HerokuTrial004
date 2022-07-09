@@ -22,6 +22,6 @@ six==1.16.0
 soupsieve==2.3.2.post1
 sqlparse==0.4.1
 #sqlparse @ file:///tmp/build/80754af9/sqlparse_1602184451250/work
-typing_extensions==2022.1
+typing_extensions==4.3.0
 #typing_extensions @ file:///opt/conda/conda-bld/typing_extensions_1647553014482/work
 whitenoise==6.2.0
